@@ -18,7 +18,6 @@ body {
 .flex {
     display: flex;
     justify-content: space-between;
-
 }
 
 
@@ -294,13 +293,6 @@ body {
     margin-bottom: 33px;
 }
 
-.footer__column-center {
-
-}
-
-.footer__column-right {
-
-}
 .footer__left-column-links {
     display: flex;
     flex-direction: column;
